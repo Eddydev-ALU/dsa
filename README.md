@@ -60,3 +60,4 @@ The result is saved in a file (e.g. `addition_result.txt`) in the same format as
 - Raises errors for invalid formats or incompatible matrix sizes
 - Ignores extra spaces
 - Skips out-of-bounds entries
+- I deleted multiplication result because it is too big to be pushed on github.
